@@ -39,3 +39,5 @@ Parte 18: ho completato l’edificio e ho unito e rinominato le mesh per avere p
 
 Parte 19: progetto finito e pronto per il render.
 Parte 19N: stesso progetto ma con qualche leggera modifica, le fonti di luce sono i lampioni, finestre e stelle marine (scelta fantasiosa).
+
+ProgettoD è il render della baia di giorno, mentre ProgettoN è il render della baia di notte.
