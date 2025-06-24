@@ -7,7 +7,7 @@ Parte 4: ho tagliato la base (con knife cut) in modo da poter dare una forma all
 Parte 5: ho creato delle varianti di edifici.
 Parte 6: ho posizionato gli edifici, ho cercato di renderli il più simili possibile a quelli presenti nella vera Baia del Silenzio.
 Parte 7: in questo punto ho creato la mesh del mare, che è leggermente più in basso rispetto alla sabbia, ho suddiviso entrambe le mesh varie volte e attraverso il Proportional Editing sono riuscito a dare alla spiaggia una forma circolare, e al mare un effetto ondeggiante.
-Parte 8: file identico a quello della parte 7 (fatto un salvataggio in più per sbaglio).
+Parte 8: il file non è presente dato che è identico a quello della parte 7 (fatto un salvataggio in più per sbaglio).
 Parte 9: in questa parte ho allargato la spiaggia leggermente verso sinistra in modo da avere spazio per la base dell’ex Convento dell’Annunziata.
 Parte 10: ho disegnato con la knife cut la pianta del convento.
 Parte 11: in questa parte ho iniziato ad avere problemi dato che, estrudendo le facce create con la knife cut, alcuni vertici si sovrapponevano.
