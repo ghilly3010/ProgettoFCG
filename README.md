@@ -15,6 +15,8 @@ Parte 2: ho aggiunto un tetto all'edificio attraverso lavori di divisione ed est
 
 Parte 3: ho creato delle suddivisioni nella facciata frontale dell'edificio dove mettere delle finestre (che in seguito verranno cancellate dato che troppo complesse da utilizzare) e un arco da utilizzare per le porte e cavità.
 
+![Screenshot 2025-07-02 093211](https://github.com/user-attachments/assets/cd3acd07-a90d-4151-b8df-fb2a127a6cd6)
+
 Parte 4: ho tagliato la base (con knife cut) in modo da poter dare una forma alla spiaggia (questa forma non servira dato che nella parte 7 seguo un altro procedimento), e posizionato il primo edificio.
 
 ![Screenshot 2025-07-02 091129](https://github.com/user-attachments/assets/bac52b5e-3f61-4a1f-9815-07af539327cc)
