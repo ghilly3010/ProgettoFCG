@@ -56,9 +56,9 @@ Parte 15: ho continuato a colorare.
 
 Parte 16: ho iniziato a creare alcuni dettagli, come finestre, tapparelle, e ho fatto 4 archi nell’edificio rosso.
 
-![Screenshot 2025-07-02 091856](https://github.com/user-attachments/assets/a1e5d91e-e7e9-481e-baf6-b3b6a71c3150)
-
 Parte 16b: in questa parte ho iniziato a sperimentare un po’ con gli shader e i nodi, ho dato l’effetto mattoni a un paio di edifici, a strisce al convento e trasparenza all’acqua (L’ho chiamato 16b dato che era un file che inizialmente pensavo di non includere, ma poi ho cambiato idea e l’ho aggiunto dato che contiene dei passaggi intermedi tra la parte 16 e la 17, e in quest’ultima ho fatto molte aggiunte).
+
+![Screenshot 2025-07-02 091856](https://github.com/user-attachments/assets/a1e5d91e-e7e9-481e-baf6-b3b6a71c3150)
 
 Parte 17: in questa parte ho continuato con i dettagli, ho aggiunto porte, tegole, terrazzi, ringhiere, barche (sia in acqua che non), dei galleggianti, ombrelli e dei teli, delle stelle marine in acqua e infine ho cominciato a fare l’edificio rosso accanto al convento.
 
